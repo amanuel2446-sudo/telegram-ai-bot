@@ -1,2 +1,0 @@
-# telegram-ai-bot
-Optional
